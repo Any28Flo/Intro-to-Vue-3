@@ -3,7 +3,9 @@ const app = Vue.createApp({
         return {
             product: 'Socks',
             image : './assets/images/socks_blue.jpg',
-            alt : 'Image socks blue'
+            alt : 'Image socks blue',
+            url : 'https://www.vuemastery.com/'
         }
     }
 })
+    
