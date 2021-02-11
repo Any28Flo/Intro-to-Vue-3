@@ -8,8 +8,8 @@ const app = Vue.createApp({
             details: ['50% cotton', '30% wool', '20% polyester'],
             sizes: ['S', 'M', 'L'],
             variants: [
-                {id: 2233, color: 'green', image: './assets/images/socks_blue.jpg'},
-                {id: 2234, color: 'blue', image: './assets/images/socks_green.jpg'}
+                {id: 2233, color: 'blue', image: './assets/images/socks_blue.jpg'},
+                {id: 2234, color: 'green', image: './assets/images/socks_green.jpg'}
             ],
 
         }
